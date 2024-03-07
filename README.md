@@ -1,2 +1,2 @@
-# 6th-Sem-Minor-Project-Zeroshot-Leanring
+# 6th-Sem-Minor-Project-Zeroshot-Learning
 in process...
