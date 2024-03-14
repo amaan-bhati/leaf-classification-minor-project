@@ -2,3 +2,4 @@ gensim
 torch
 numpy
 opencv-python
+torchvision
